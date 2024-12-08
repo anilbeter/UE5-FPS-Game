@@ -10,3 +10,5 @@
 <image src="source-images/2.jpg">
 <image src="source-images/3.jpg">
 <image src="source-images/4.jpg">
+<image src="source-images/5.jpg">
+<image src="source-images/6.jpg">
